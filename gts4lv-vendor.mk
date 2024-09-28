@@ -61,15 +61,18 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts4lv/proprietary/vendor/firmware/wlanmdsp_SM-T727R4.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/wlanmdsp_SM-T727R4.mbn \
     vendor/samsung/gts4lv/proprietary/vendor/firmware/wlanmdsp_SM-T727U.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/wlanmdsp_SM-T727U.mbn \
     vendor/samsung/gts4lv/proprietary/vendor/firmware/wlanmdsp_SM-T727V.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/wlanmdsp_SM-T727V.mbn \
+    vendor/samsung/gts4lv/proprietary/vendor/lib/vendor.samsung.hardware.radio.bridge@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.radio.bridge@2.0.so \
+    vendor/samsung/gts4lv/proprietary/vendor/lib/vendor.samsung.hardware.radio.bridge@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.radio.bridge@2.1.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libconfigdb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libconfigdb.so \
+    vendor/samsung/gts4lv/proprietary/vendor/lib64/libdsi_netctrl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdsi_netctrl.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libengmode_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libengmode_client.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/liblqe.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblqe.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgr.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libnetmgr_common.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgr_common.so \
+    vendor/samsung/gts4lv/proprietary/vendor/lib64/libnlnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnlnetmgr.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libpdnotifier.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpdnotifier.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libqmiextservices.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqmiextservices.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libqmiservices-sem-ext.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqmiservices-sem-ext.so \
-    vendor/samsung/gts4lv/proprietary/vendor/lib64/libqrtr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqrtr.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libsec-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsec-ril.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libsystem_health_mon.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsystem_health_mon.so \
     vendor/samsung/gts4lv/proprietary/vendor/lib64/libvkmanager_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvkmanager_vendor.so \
